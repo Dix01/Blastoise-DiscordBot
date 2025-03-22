@@ -424,4 +424,4 @@ async def on_connect():
 
 if __name__ == "__main__":
     print(f"\n{Fore.YELLOW}Starting BigManBlastoise Discord Bot...{Style.RESET_ALL}")
-    bot.run('MTE5MDU5NjU0MjQ0MTE5NzY3OA.GmfjqX.cZBa1APM5f0_11ViQRjzcP5F1FMtjzhjj0ad5Q')
+    bot.run('token')
